@@ -39,9 +39,9 @@ CottonField.sln
 │   │   
 │   ├── Adapters
 │   │   ├── Driven
-│   │   │   └── CottonField.Infrastructure
+│   │   │   └── Persistence
 │   │   └── Driving
-│   │       └── CottonField.Api
+│   │       └── Api
 └── tests
      ├── Integration
      │
